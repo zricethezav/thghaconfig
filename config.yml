@@ -4,5 +4,5 @@ detectors:
     keywords:
       - hog
     regex:
-      hogID: "\b(HOG[0-9A-Z]{17})\b"
+      hogID: \b(HOG[0-9A-Z]{17})\b
 
