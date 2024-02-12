@@ -1,4 +1,8 @@
 # thghaconfig
+
+"HogID": ["HOGAAIUNNWHAHJJWUQYR"],
+
+
 "HogID": ["HOGAAIUNNWHAHJJWUQYR"],
 "HogID": ["HOGAAIUNNWHAHJJWUQYR"],
 
