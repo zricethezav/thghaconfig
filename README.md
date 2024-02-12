@@ -1,5 +1,5 @@
 # thghaconfig
-
+"HogID": ["HOGAAIUNNWHAHJJWUQYR"],
 "HogID": ["HOGAAIUNNWHAHJJWUQYR"],
 
 class CustomClass:
